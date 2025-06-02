@@ -21,7 +21,7 @@ This project presents an interactive dashboard built with Microsoft Excel to vis
 - Specific branches dominate sales during particular periods  
 - Toppings variety and promotions significantly impact order volume  
 
-## 🌟 About the Project:  
+## About the Project:  
 This project aims to enhance the understanding of pizza sales patterns to support data-driven business decisions.  
 
 ## Contact:  
